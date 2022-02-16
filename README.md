@@ -1,0 +1,2 @@
+# MacFolderStructure
+Created with CodeSandbox
